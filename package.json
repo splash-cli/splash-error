@@ -1,0 +1,28 @@
+{
+  "name": "@splash-cli/splash-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "overflow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splash-cli/splash-error.git"
+  },
+  "keywords": [
+    "error",
+    "throw",
+    "catch"
+  ],
+  "author": "Federico Vitale",
+  "bugs": {
+    "url": "https://github.com/splash-cli/splash-error/issues"
+  },
+  "homepage": "https://github.com/splash-cli/splash-error#readme",
+  "dependencies": {
+    "@splash-cli/print-block": "^1.0.6",
+    "chalk": "^2.3.2"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
